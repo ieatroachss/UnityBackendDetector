@@ -1,0 +1,16 @@
+C:\Users\galax\source\repos\GameDetector\GameDetector\obj\Debug\net8.0-windows\GameDetector.Form1.resources
+C:\Users\galax\source\repos\GameDetector\GameDetector\obj\Debug\net8.0-windows\GameDetector.csproj.GenerateResource.cache
+C:\Users\galax\source\repos\GameDetector\GameDetector\obj\Debug\net8.0-windows\GameDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galax\source\repos\GameDetector\GameDetector\obj\Debug\net8.0-windows\GameDetector.AssemblyInfoInputs.cache
+C:\Users\galax\source\repos\GameDetector\GameDetector\obj\Debug\net8.0-windows\GameDetector.AssemblyInfo.cs
+C:\Users\galax\source\repos\GameDetector\GameDetector\obj\Debug\net8.0-windows\GameDetector.csproj.CoreCompileInputs.cache
+C:\Users\galax\source\repos\GameDetector\GameDetector\obj\Debug\net8.0-windows\GameDetector.genruntimeconfig.cache
+C:\Users\galax\source\repos\GameDetector\GameDetector\bin\Debug\net8.0-windows\BackendDetector.exe
+C:\Users\galax\source\repos\GameDetector\GameDetector\bin\Debug\net8.0-windows\BackendDetector.deps.json
+C:\Users\galax\source\repos\GameDetector\GameDetector\bin\Debug\net8.0-windows\BackendDetector.runtimeconfig.json
+C:\Users\galax\source\repos\GameDetector\GameDetector\bin\Debug\net8.0-windows\BackendDetector.dll
+C:\Users\galax\source\repos\GameDetector\GameDetector\bin\Debug\net8.0-windows\BackendDetector.pdb
+C:\Users\galax\source\repos\GameDetector\GameDetector\obj\Debug\net8.0-windows\BackendDetector.dll
+C:\Users\galax\source\repos\GameDetector\GameDetector\obj\Debug\net8.0-windows\refint\BackendDetector.dll
+C:\Users\galax\source\repos\GameDetector\GameDetector\obj\Debug\net8.0-windows\BackendDetector.pdb
+C:\Users\galax\source\repos\GameDetector\GameDetector\obj\Debug\net8.0-windows\ref\BackendDetector.dll

@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Company>ismokefigbars</Company>
+    <AssemblyName>BackendDetector</AssemblyName>
+    <Description>Basic tool to detect the backend of a unity game then it makes an folder with the files it detected.
+Made By ismokefigbars on discord.</Description>
+    <PackageIcon>nigga-removebg-preview.png</PackageIcon>
+    <ApplicationIcon>nigga-removebg-preview.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="nigga-removebg-preview.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\OneDrive\Pictures\nigga-removebg-preview.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
